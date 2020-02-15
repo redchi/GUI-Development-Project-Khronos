@@ -1,4 +1,5 @@
-# Clear
+# Team 17 - Project Khronos - User Interface Development 
+## Use of Clear
 Clear is a wrapper for LWJGL3 that makes it simple to build basic programs that require a user-interface. The windowing and UI wrappers are separated into two projects in case you want to use one and not the other. The goal of the project is to provide a very sound foundation for creating custom user-interfaces that aren't limited by foundational design decisions (such as forcing certain layout types to be used, or so on). This is for GUI creators who want something "free-form" to build their interfaces in.
 
 <p align="center">
